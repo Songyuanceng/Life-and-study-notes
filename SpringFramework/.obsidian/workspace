@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "3e72af982f43429d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4123df11cce709",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9272e188a6b6ce8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d98257ea090fa6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e95e75a069d72f46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b758fc667a8c7e91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89a79a448f4ad695",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f1a3d5a10b5a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d202465557533106",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d4123df11cce709",
+  "lastOpenFiles": [
+    "spring是什么.md",
+    "Pasted image 20210717184418.png",
+    "未命名.md"
+  ]
+}

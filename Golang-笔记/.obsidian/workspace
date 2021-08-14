@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "af1557f5aa1900a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff8aaef54f0b9b39",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "999d99368115f866",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e46b280b498815a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87762bc6a5073bb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e252198949894311",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06ac8ba484684109",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33ad9cda1a1aaaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e199cf80468a80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "前言.md",
+    "数据类型.md",
+    "语法.md",
+    "文件夹.md",
+    "基本命令.md",
+    "安装.md",
+    "Pasted image 20201223173548.png",
+    "Untitled.md",
+    "目录.md"
+  ]
+}

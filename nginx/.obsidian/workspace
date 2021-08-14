@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "664beb707a94aa4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8f658e9580f9ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "常用命令.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92537cb9fcb77bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "104ceb109bbe61cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6201094d32962fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e350864f23cd61d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26201aa23888f487",
+    "type": "split",
+    "children": [
+      {
+        "id": "e586852738bfdaad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08053117bf07877e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa8f658e9580f9ab",
+  "lastOpenFiles": [
+    "常用命令.md",
+    "nginx配置详解.md",
+    "负载均衡示例.png",
+    "负载均衡.md",
+    "tomcat集群.png",
+    "反向代理详解.png",
+    "反向代理.md",
+    "端口-配置.png",
+    "IP-配置.png",
+    "server-详解.png"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b1a302b71c16e00d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce600074890cd40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日常/家庭饮食.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c95ad867e99eed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f78751acb9537567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525b75036b2abb9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a7931e331734aee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2719dde2f06580aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee774c2a9c17538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7feb85534260ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日常/家庭饮食.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9ce600074890cd40",
+  "lastOpenFiles": [
+    "日常/家庭饮食.md",
+    "日常/未命名.md",
+    "日常/除-湿疹.md",
+    "日常/养-脾胃.md",
+    "饮食/三七土豆炖牛肉.md",
+    "饮食/玉米须奇效.md",
+    "体育锻炼/预防近视.md",
+    "体育锻炼/八段锦.md",
+    "日常/养胃配方.md",
+    "教育/幼儿英语.md"
+  ]
+}
