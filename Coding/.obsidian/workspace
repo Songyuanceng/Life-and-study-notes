@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docker/常用命令.md",
+            "file": "Docker/DockerFile.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 390
   },
   "right": {
     "id": "8388536039387094",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/常用命令.md",
+                "file": "Docker/DockerFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b50a16843c0380da",
   "lastOpenFiles": [
+    "Docker/未命名.md",
+    "Docker/容器数据卷.md",
     "Docker/常用命令.md",
-    "Pasted image 20210812205732.png",
-    "Pasted image 20210812205449.png",
-    "Pasted image 20210812204749.png",
-    "Pasted image 20210812192255.png",
-    "Pasted image 20210812191300.png",
+    "Docker/安装练习.md",
+    "Docker/可视化面板安装.md",
+    "Pasted image 20210812192913.png",
     "Pasted image 20210812192136.png",
-    "Pasted image 20210812191735.png",
-    "Pasted image 20210812195819.png",
-    "Pasted image 20210812194246.png"
+    "Pasted image 20210812191300.png",
+    "Pasted image 20210812194246.png",
+    "Pasted image 20210812191735.png"
   ]
 }

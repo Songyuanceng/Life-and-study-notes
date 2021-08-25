@@ -6,7 +6,6 @@
       {
         "id": "ff8aaef54f0b9b39",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -69,6 +68,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -81,6 +82,7 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "ff8aaef54f0b9b39",
   "lastOpenFiles": [
     "前言.md",
     "数据类型.md",
