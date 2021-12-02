@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "bcac7c506b618c17",
+    "id": "1ee6b7b8482045a4",
     "type": "split",
     "children": [
       {
-        "id": "470fa4a456d9f7f7",
+        "id": "4ebdead1a7e561ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docker/常用命令.md",
+            "file": "常用命令.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "796788a7568bf2cd",
+    "id": "1f6129d2df84949c",
     "type": "split",
     "children": [
       {
-        "id": "d10ef0d706a13c9a",
+        "id": "62052e7aa13a4631",
         "type": "tabs",
         "children": [
           {
-            "id": "ab117e8b7fe2896f",
+            "id": "273147f68157b577",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "afaf36b3c5e4c142",
+            "id": "ac3b66e418794232",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 300
   },
   "right": {
-    "id": "8388536039387094",
+    "id": "a391a7a86a5b322b",
     "type": "split",
     "children": [
       {
-        "id": "7cd549362427765c",
+        "id": "91acd938bf6bd1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "f350962b8d089609",
+            "id": "f5ad412a019ee33e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/常用命令.md",
+                "file": "常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "470fa4a456d9f7f7",
+  "active": "4ebdead1a7e561ac",
   "lastOpenFiles": [
-    "Docker/常用命令.md",
-    "Pasted image 20210812191300.png",
-    "Pasted image 20210812185752.png",
-    "Pasted image 20210812185350.png",
-    "Pasted image 20210812185033.png",
-    "Pasted image 20210812173018.png",
-    "Pasted image 20210812171607.png",
-    "Docker/工作流程与原理.md",
-    "Docker/docker是什么.md",
-    "Pasted image 20210812163325.png"
+    "常用命令.md",
+    "Pasted image 20210812205732.png.md",
+    "docker是什么.md",
+    "docker安装.md"
   ]
 }
