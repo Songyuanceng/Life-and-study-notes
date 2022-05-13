@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "常用命令.md",
+            "file": "Pasted image 20210812204211.png.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用命令.md",
+                "file": "Pasted image 20210812204211.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,14 @@
   },
   "active": "4ebdead1a7e561ac",
   "lastOpenFiles": [
+    "Pasted image 20210812204211.png.md",
     "常用命令.md",
-    "Pasted image 20210812205732.png.md",
+    "工作流程与原理.md",
     "docker是什么.md",
+    "提交镜像.md",
+    "DockerFile.md",
+    "容器数据卷.md",
+    "Pasted image 20210812205732.png.md",
     "docker安装.md"
   ]
 }

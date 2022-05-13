@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8aaef54f0b9b39",
+        "id": "a6f49ba9e4160ae8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日志搜集项目/1、项目架构.md",
+            "mode": "source",
+            "backlinks": true
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214
   },
   "right": {
     "id": "06ac8ba484684109",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日志搜集项目/1、项目架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff8aaef54f0b9b39",
+  "active": "a6f49ba9e4160ae8",
   "lastOpenFiles": [
-    "前言.md",
-    "数据类型.md",
-    "语法.md",
-    "文件夹.md",
-    "基本命令.md",
+    "日志搜集项目/1、项目架构.md",
+    "Pasted image 20220513154433.png",
+    "编写dockerfile.md",
     "安装.md",
-    "Pasted image 20201223173548.png",
-    "Untitled.md",
-    "目录.md"
+    "前言.md",
+    "基本命令.md",
+    "gin/是什么？.md",
+    "gorm/是什么？.md",
+    "etcd/是什么？.md",
+    "未命名.md"
   ]
 }

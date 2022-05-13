@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c29618cab3ee7a6",
+        "id": "859d5afc79f80dfe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Docker/容器数据卷.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/容器数据卷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c29618cab3ee7a6",
+  "active": "859d5afc79f80dfe",
   "lastOpenFiles": [
-    "Docker/容器数据卷.md",
-    "Docker/DockerFile.md",
-    "Docker/docker安装.md",
-    "Docker/具名挂载和匿名挂载.md",
-    "Docker/提交镜像.md",
-    "Docker/可视化面板安装.md",
-    "Docker/安装练习.md",
-    "Pasted image 20210812191300.png",
     "Docker/常用命令.md",
-    "Pasted image 20210812205732.png"
+    "Pasted image 20210812185033.png",
+    "Docker/工作流程与原理.md",
+    "Docker/安装练习.md",
+    "Docker/docker安装.md",
+    "Docker/可视化面板安装.md",
+    "Pasted image 20210812163325.png",
+    "Docker/提交镜像.md",
+    "Pasted image 20210812204211.png",
+    "Pasted image 20210812194418.png"
   ]
 }
