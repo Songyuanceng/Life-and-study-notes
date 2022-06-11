@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "859d5afc79f80dfe",
+        "id": "b2498ffb1e340023",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "K8s/V1.18.0/k8s 介绍.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "K8s/V1.18.0/k8s 介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "859d5afc79f80dfe",
+  "active": "b2498ffb1e340023",
   "lastOpenFiles": [
-    "Docker/常用命令.md",
-    "Pasted image 20210812185033.png",
-    "Docker/工作流程与原理.md",
-    "Docker/安装练习.md",
+    "K8s/V1.18.0/k8s 介绍.md",
+    "k8s组件.jpg",
+    "Docker/docker是什么.md",
     "Docker/docker安装.md",
-    "Docker/可视化面板安装.md",
-    "Pasted image 20210812163325.png",
+    "K8s/V1.18.0/markdown 语法.md",
+    "Docker/常用命令.md",
     "Docker/提交镜像.md",
-    "Pasted image 20210812204211.png",
-    "Pasted image 20210812194418.png"
+    "Docker/DockerFile.md",
+    "Pasted image 20210812194418.png",
+    "Pasted image 20210812185033.png"
   ]
 }

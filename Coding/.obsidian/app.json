@@ -1,3 +1,9 @@
 {
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source",
+  "showFrontmatter": false
 }
