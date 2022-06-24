@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2498ffb1e340023",
+        "id": "f616f773170856de",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "K8s/V1.18.0/k8s 介绍.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 304
   },
   "right": {
     "id": "8388536039387094",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/V1.18.0/k8s 介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2498ffb1e340023",
+  "active": "f616f773170856de",
   "lastOpenFiles": [
-    "K8s/V1.18.0/k8s 介绍.md",
-    "k8s组件.jpg",
-    "Docker/docker是什么.md",
-    "Docker/docker安装.md",
-    "K8s/V1.18.0/markdown 语法.md",
-    "Docker/常用命令.md",
-    "Docker/提交镜像.md",
     "Docker/DockerFile.md",
-    "Pasted image 20210812194418.png",
-    "Pasted image 20210812185033.png"
+    "Docker/数据卷容器.md",
+    "Docker/Pasted image 20210812204211.png.md",
+    "Docker/DockerFile.md",
+    "Docker/具名挂载和匿名挂载.md",
+    "Docker/容器数据卷.md",
+    "Docker/提交镜像.md",
+    "Docker/可视化面板安装.md",
+    "Docker/常用命令.md",
+    "Docker/安装练习.md"
   ]
 }
