@@ -7,8 +7,12 @@
         "id": "f616f773170856de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Docker/docker是什么.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/docker是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,13 @@
   },
   "active": "f616f773170856de",
   "lastOpenFiles": [
+    "Docker/docker是什么.md",
+    "Docker/具名挂载和匿名挂载.md",
+    "Docker/DockerFile.md",
     "Docker/Pasted image 20210812204749.png.md",
     "Docker/Pasted image 20210812171607.png.md",
-    "Docker/DockerFile.md",
-    "Docker/docker是什么.md",
     "Docker/数据卷容器.md",
     "Docker/Pasted image 20210812204211.png.md",
-    "Docker/具名挂载和匿名挂载.md",
     "Docker/容器数据卷.md",
     "Docker/提交镜像.md",
     "Docker/可视化面板安装.md"
