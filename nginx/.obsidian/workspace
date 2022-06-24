@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "39526ced888d9964",
+        "id": "1ab9950828eb7eea",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "IP-配置.png"
+            "file": "5 nginx配置详解.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IP-配置.png",
+                "file": "5 nginx配置详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39526ced888d9964",
+  "active": "1ab9950828eb7eea",
   "lastOpenFiles": [
+    "5 nginx配置详解.md",
+    "4.3 反向代理.md",
+    "4.2 负载均衡.md",
+    "4.1 虚拟机配置.md",
+    "域名-配置.png",
+    "3 常用命令.md",
+    "2 怎么安装.md",
+    "1 入门初识.md",
     "IP-配置.png",
-    "常用命令.md",
-    "入门初识.md",
-    "虚拟机配置.md",
-    "nginx配置详解.md",
-    "负载均衡示例.png",
-    "负载均衡.md",
-    "tomcat集群.png",
-    "反向代理详解.png",
-    "反向代理.md"
+    "负载均衡示例.png"
   ]
 }

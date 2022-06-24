@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日志搜集项目/1、项目架构.md",
+            "file": "gorm/是什么？.md",
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -53,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 296
   },
   "right": {
     "id": "06ac8ba484684109",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志搜集项目/1、项目架构.md",
+                "file": "gorm/是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "a6f49ba9e4160ae8",
   "lastOpenFiles": [
-    "日志搜集项目/1、项目架构.md",
-    "Pasted image 20220513154433.png",
-    "编写dockerfile.md",
-    "安装.md",
-    "前言.md",
-    "基本命令.md",
-    "gin/是什么？.md",
     "gorm/是什么？.md",
-    "etcd/是什么？.md",
-    "未命名.md"
+    "golang/编写dockerfile.md",
+    "golang/6 数据类型.md",
+    "golang/5 语法.md",
+    "golang/3 文件夹.md",
+    "golang/4 基本命令.md",
+    "golang/2 安装.md",
+    "golang/1 前言.md",
+    "protobuf/是什么？.md",
+    "protobuf/安装？.md"
   ]
 }
