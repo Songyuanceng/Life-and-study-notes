@@ -5,5 +5,7 @@
   "foldIndent": true,
   "strictLineBreaks": false,
   "defaultViewMode": "source",
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
