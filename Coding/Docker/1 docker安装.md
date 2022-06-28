@@ -31,7 +31,7 @@ yum-config-manager \
 
 4、更新yum软件包索引(可选操作)
 ```
-yum makecache fast
+yum makecache
 ```
 
 5、安装docker（docker-ce社区版 ee-企业版）注：这是安装最新版
