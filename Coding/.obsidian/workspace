@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "bcac7c506b618c17",
+    "id": "45d4d6e9e2651263",
     "type": "split",
     "children": [
       {
-        "id": "ab1eb480f5224373",
+        "id": "9c9f7e5b8a22b9aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docker/11 DockerFile.md",
-            "mode": "source",
+            "file": "K8s/V1.18.0/k8s 介绍.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "796788a7568bf2cd",
+    "id": "6afc0ea90d7e98ae",
     "type": "split",
     "children": [
       {
-        "id": "d10ef0d706a13c9a",
+        "id": "529d276523b22e52",
         "type": "tabs",
         "children": [
           {
-            "id": "ab117e8b7fe2896f",
+            "id": "e55df0d7041732f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "afaf36b3c5e4c142",
+            "id": "fade8d651d111bd3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 300
   },
   "right": {
-    "id": "8388536039387094",
+    "id": "667be33d7bedf4aa",
     "type": "split",
     "children": [
       {
-        "id": "7cd549362427765c",
+        "id": "055c29f37bbf4705",
         "type": "tabs",
         "children": [
           {
-            "id": "f350962b8d089609",
+            "id": "3a05c24259105fb6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/11 DockerFile.md",
+                "file": "K8s/V1.18.0/k8s 介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab1eb480f5224373",
+  "active": "9c9f7e5b8a22b9aa",
   "lastOpenFiles": [
+    "Docker/14 Docker-compose.md",
+    "Docker/13 自定义springboot项目.md",
+    "Docker/12 Docker网络.md",
+    "Pasted image 20220720154256.png",
+    "Docker/apache精华摘取.md",
+    "K8s/V1.18.0/markdown 语法.md",
+    "K8s/V1.18.0/k8s 介绍.md",
     "Docker/11 DockerFile.md",
     "Docker/4 常用命令.md",
-    "K8s/V1.18.0/k8s 介绍.md",
-    "Docker/1 docker安装.md",
-    "Docker/5 安装练习.md",
-    "Pasted image 20220624235530.png",
-    "Pasted image 20220624235435.png",
-    "Docker/10 数据卷容器.md",
-    "Docker/9 具名挂载和匿名挂载.md",
-    "Linux/9 进程管理.md"
+    "Docker/7 提交镜像.md"
   ]
 }

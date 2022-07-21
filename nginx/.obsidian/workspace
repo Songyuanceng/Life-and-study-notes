@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5 nginx配置详解.md",
+            "file": "4.1 虚拟机配置.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 nginx配置详解.md",
+                "file": "4.1 虚拟机配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "1ab9950828eb7eea",
   "lastOpenFiles": [
-    "5 nginx配置详解.md",
-    "4.3 反向代理.md",
-    "4.2 负载均衡.md",
     "4.1 虚拟机配置.md",
-    "域名-配置.png",
     "3 常用命令.md",
     "2 怎么安装.md",
     "1 入门初识.md",
+    "5 nginx配置详解.md",
+    "4.3 反向代理.md",
+    "4.2 负载均衡.md",
+    "域名-配置.png",
     "IP-配置.png",
     "负载均衡示例.png"
   ]

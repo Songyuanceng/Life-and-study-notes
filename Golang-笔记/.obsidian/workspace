@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gorm/是什么？.md",
+            "file": "protobuf/3 使用？.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gorm/是什么？.md",
+                "file": "protobuf/3 使用？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "a6f49ba9e4160ae8",
   "lastOpenFiles": [
-    "gorm/是什么？.md",
-    "golang/编写dockerfile.md",
-    "golang/6 数据类型.md",
-    "golang/5 语法.md",
-    "golang/3 文件夹.md",
-    "golang/4 基本命令.md",
-    "golang/2 安装.md",
+    "protobuf/1 是什么？.md",
+    "protobuf/3 使用？.md",
+    "protobuf/2 安装？.md",
+    "什么是rpc/1 rpc阐述.md",
+    "什么是rpc/2 gRpc使用.md",
+    "日志搜集项目/1、项目架构.md",
     "golang/1 前言.md",
-    "protobuf/是什么？.md",
-    "protobuf/安装？.md"
+    "gin/怎么用？.md",
+    "gin/是什么？.md",
+    "etcd/是什么？.md"
   ]
 }

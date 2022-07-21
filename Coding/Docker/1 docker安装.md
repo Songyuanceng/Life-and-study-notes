@@ -1,4 +1,4 @@
-环境准备。。。。
+(<font color="red">centos版</font>)
 
 官方步骤https://docs.docker.com/engine/install/centos/
 1、移除旧版本
@@ -34,14 +34,25 @@ yum-config-manager \
 yum makecache
 ```
 
-5、安装docker（docker-ce社区版 ee-企业版）注：这是安装最新版
+5、安装docker（docker-ce社区版 ee-企业版）
 ```
+# 安装最新版
 yum install docker-ce docker-ce-cli containerd.io
+
+# 查看docker-ce-cli版本
+yum list docker-ce-cli --showduplicates|sort -r
+
+# 指定版本号安装(18.09.9)
+yum install -y docker-ce-18.09.9 docker-ce-cli-18.09.9 containerd.io
 ```
 
 6、启动docker
 ```
+# 启动docker
 systemctl start docker
+
+# 设置开机自启动
+systemctl enable docker
 ```
 
 7、用docker version 查看是否启动成功

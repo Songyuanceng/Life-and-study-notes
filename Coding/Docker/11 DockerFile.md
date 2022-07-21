@@ -38,7 +38,6 @@ ENV            # 构建的时候设置环境变量
 ### 4.实战 编写dockerfile 构建自己的镜像
 #### 4.1 构建一个自己的centos
 ```
-# 1 编写dockerfile文件
 FROM centos
 
 MAINTAINER syc<183088806@qq.com>
@@ -63,11 +62,75 @@ docker run -d jingxiang_name
 
 # 注意：上述dockerfile文件build时，centos是8.x版本时会报安装vim的错
 ```
-补充: docker history jingxiang_name 可查看镜像的构建过程
+<font color="red">补充: docker history jingxiang_name 可查看镜像的构建过程</font>
 ![[Pasted image 20220625170119.png]]
 
-### 4.2  制作tomcat镜像
+### 4.3 CMD和ENTRYPOINT区别
 ```
-FROM 
+# 区别
+CMD 追加的命令覆盖dockerfile中指定的命令，只有追加的生效
+ENTRYPOINT 追加的命令是append,依然生效
+
 ```
 
+### 4.2  制作tomcat镜像
++ 1、编写dockerfile文件
+```
+FROM centos:7
+
+MAINTAINER syc<syuanceng@163.com>
+
+COPY readme.txt /usr/local/readme.txt
+
+ADD jdk-8u271-linux-x64.tar.gz /usr/local
+ADD apache-tomcat-8.5.81.tar.gz /usr/local
+
+ENV MYPATH /usr/local
+WORKDIR $MYPATH
+
+RUN yum -y install vim
+RUN yum -y install net-tools
+
+ENV JAVA_HOME /usr/local/jdk1.8.0_271
+ENV CLASSPATH $JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+ENV CATALINA_HOME /usr/local/apache-tomcat-8.5.81
+ENV CATALINA_BASH /usr/local/apache-tomcat-8.5.81
+ENV PATH $PATH:$JAVA_HOME/bin:$CATALINA_HOME/lib:$CATALINA_HOME/bin
+
+EXPOSE 80
+
+CMD /usr/local/apache-tomcat-8.5.81/bin/startup.sh && tail -f /usr/local/apache-tomcat-8.5.81/logs/catalina.out
+```
++ 2、执行编译dockerfile
+```
+docker build -t mytomcat:0.1 .
+```
+  备注：Dockerfile 官方是以大写开头的，编译时可不指定-f dockerfile_path
++ 3、执行镜像
+```
+docker run -d -p 8081:8080 -v /opt/app/docker/tomcat/webapps/test:/usr/local/apache-tomcat-8.5.81/webapps/test -v /opt/app/docker/tomcat/webapps/testlogs:/usr/local/apache-tomcat-8.5.81/logs --name syctomcat2 diytomcat:0.1
+```
++ 4、在webapps下新建test项目
+```
+mkdir -p /opt/app/docker/tomcat/webapps/test #创建宿主机test挂载目录
+mkdir -p /opt/app/docker/tomcat/webapps/testlogs #创建日志目录
+vim index.html #在/opt/app/docker/tomcat/webapps/test下
+mkdir WEB_INF  #同上 
+vim web.xml    #/opt/app/docker/tomcat/webapps/test/WEB_INFO下
+```
++ 5、访问tomcat
+```
+curl localhost:8080
+curl localhost:8080/test #访问刚创建的test
+```
+
+### 4.4 发布镜像
+```
+# 发布到dockerhub 和git提交代码很像
+1、docker login #登录
+2、docker push  #推送命令
+3、docker logout #退出
+
+# 发布到腾讯云或者阿里云
+# 登录云服务器-->搜索镜像服务
+```
