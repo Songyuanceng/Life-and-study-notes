@@ -21,3 +21,5 @@ gRPC 的接口描述语言（Interface description language，缩写 IDL）使�
 
 5、客户端接受到服务端响应，解码请求体。回调被调用的 A 方法，唤醒正在等待响应（阻塞）的客户端调用并返回响应结果。
 ```
+4、gRPC 与 RESTful API 对比
+![[Pasted image 20220722154930.png]]
