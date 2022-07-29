@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "K8s/V1.18.0/k8s 介绍.md",
+            "file": "Docker/5 安装练习.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/V1.18.0/k8s 介绍.md",
+                "file": "Docker/5 安装练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9c9f7e5b8a22b9aa",
   "lastOpenFiles": [
+    "Docker/4 常用命令.md",
+    "K8s/V1.18.0/k8s 介绍.md",
     "Docker/14 Docker-compose.md",
     "Docker/13 自定义springboot项目.md",
     "Docker/12 Docker网络.md",
     "Pasted image 20220720154256.png",
     "Docker/apache精华摘取.md",
     "K8s/V1.18.0/markdown 语法.md",
-    "K8s/V1.18.0/k8s 介绍.md",
     "Docker/11 DockerFile.md",
-    "Docker/4 常用命令.md",
     "Docker/7 提交镜像.md"
   ]
 }
